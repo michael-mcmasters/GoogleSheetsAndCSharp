@@ -1,0 +1,12 @@
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/bin/Debug/netcoreapp2.2/client_secrets.json
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/bin/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.deps.json
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/bin/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.runtimeconfig.json
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/bin/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.runtimeconfig.dev.json
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/bin/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.dll
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/bin/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.pdb
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/obj/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.csprojAssemblyReference.cache
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/obj/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.csproj.CoreCompileInputs.cache
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/obj/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.AssemblyInfoInputs.cache
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/obj/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.AssemblyInfo.cs
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/obj/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.dll
+/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/obj/Debug/netcoreapp2.2/GoogleSheetsAndCSharp.pdb

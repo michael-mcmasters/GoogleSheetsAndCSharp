@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/GoogleSheetsAndCSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/GoogleSheetsAndCSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/GoogleSheetsAndCSharp.csproj",
+        "projectName": "GoogleSheetsAndCSharp",
+        "projectPath": "/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/GoogleSheetsAndCSharp.csproj",
+        "packagesPath": "/Users/jon-michaelmcmasters/.nuget/packages/",
+        "outputPath": "/Users/jon-michaelmcmasters/GoogleSheetsAndCSharp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jon-michaelmcmasters/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "google.apis.oauth2.v2": {
+              "target": "Package",
+              "version": "[1.41.1.1602, )"
+            },
+            "google.apis.sheets.v4": {
+              "target": "Package",
+              "version": "[1.41.1.1705, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
